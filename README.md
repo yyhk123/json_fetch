@@ -6,6 +6,8 @@ https://jsonplaceholder.typicode.com/users
 using reactjs.
 
 code:
+
+```
 class App extends Component {
   constructor(props) {
     super(props);
@@ -48,3 +50,4 @@ class App extends Component {
 }
 
 export default App;
+```
