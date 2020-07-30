@@ -2,11 +2,11 @@
 
 fetch json info from 
 https://jsonplaceholder.typicode.com/users
-
 using reactjs.
 
-code:
+https://yyhk123.github.io/json_fetch/
 
+code:
 ```
 class App extends Component {
   constructor(props) {
